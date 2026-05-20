@@ -24,3 +24,8 @@ body {
   margin: 0;
   background-color: var(--neutral-background);
 }
+.card-section{
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+}
